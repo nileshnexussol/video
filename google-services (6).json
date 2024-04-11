@@ -1,0 +1,181 @@
+{
+  "project_info": {
+    "project_number": "813462143254",
+    "project_id": "collage-maker-a4d0e",
+    "storage_bucket": "collage-maker-a4d0e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:813462143254:android:22155bc99d7b285e4c9037",
+        "android_client_info": {
+          "package_name": "com.emi.all.amount.emi_calculator"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAtpRLAOCBWpIGJBAHSTLIAXN3jYbf2fgs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:813462143254:android:85ed11df1d9e7c494c9037",
+        "android_client_info": {
+          "package_name": "com.example.ar_drawing"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAtpRLAOCBWpIGJBAHSTLIAXN3jYbf2fgs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:813462143254:android:8a00066b0d7181d74c9037",
+        "android_client_info": {
+          "package_name": "com.example.collagedemo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAtpRLAOCBWpIGJBAHSTLIAXN3jYbf2fgs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:813462143254:android:6a8b4283b8727ae94c9037",
+        "android_client_info": {
+          "package_name": "com.example.fff_diamond_march"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAtpRLAOCBWpIGJBAHSTLIAXN3jYbf2fgs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:813462143254:android:8a4acff1b43708d04c9037",
+        "android_client_info": {
+          "package_name": "com.example.financialcalculator"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAtpRLAOCBWpIGJBAHSTLIAXN3jYbf2fgs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:813462143254:android:c08c3fa3495337db4c9037",
+        "android_client_info": {
+          "package_name": "com.example.musicplayer"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAtpRLAOCBWpIGJBAHSTLIAXN3jYbf2fgs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:813462143254:android:c4e56f9da3fda5674c9037",
+        "android_client_info": {
+          "package_name": "com.example.newsms"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAtpRLAOCBWpIGJBAHSTLIAXN3jYbf2fgs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:813462143254:android:b2c4674e95f44d804c9037",
+        "android_client_info": {
+          "package_name": "com.example.videoplayer"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAtpRLAOCBWpIGJBAHSTLIAXN3jYbf2fgs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:813462143254:android:39df833a2d99a3954c9037",
+        "android_client_info": {
+          "package_name": "com.moez.QKSMS"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAtpRLAOCBWpIGJBAHSTLIAXN3jYbf2fgs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
