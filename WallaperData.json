@@ -41,22 +41,27 @@
 "WallPaper":[
     {
         "CategoryId":101,
-        "WallPaperUrlList":["https://images.pexels.com/photos/13973508/pexels-photo-13973508.jpeg",
-                              "https://images.pexels.com/photos/13973508/pexels-photo-13973508.jpeg",
-                              "https://images.pexels.com/photos/13261768/pexels-photo-13261768.jpeg",
-                              "https://images.pexels.com/photos/13261768/pexels-photo-13261768.jpeg",
-                              "https://images.pexels.com/photos/13973508/pexels-photo-13973508.jpeg"]
+        "WallPaperUrlList":["https://nileshnexussol.github.io/video/image_1.png",
+                              "https://nileshnexussol.github.io/video/image_2.png",
+                              "https://nileshnexussol.github.io/video/image_3.png",
+                              "https://nileshnexussol.github.io/video/image_4.png",
+                              "https://nileshnexussol.github.io/video/image_5.png",
+                            "https://nileshnexussol.github.io/video/image_6.png",
+                        "https://nileshnexussol.github.io/video/image_7.png",
+                    "https://nileshnexussol.github.io/video/image_8.png",
+                    "https://nileshnexussol.github.io/video/image_9.png" 
+                   ]
     } , {
         "CategoryId":102,
-        "WallPaperUrlList":["https://images.pexels.com/photos/13973508/pexels-photo-13973508.jpeg",
-                            "https://images.pexels.com/photos/13973508/pexels-photo-13973508.jpeg",
-                            "https://images.pexels.com/photos/13261768/pexels-photo-13261768.jpeg",
-                            "https://images.pexels.com/photos/13973508/pexels-photo-13973508.jpeg"]
+        "WallPaperUrlList":["https://nileshnexussol.github.io/video/image_10.png",
+                            "https://nileshnexussol.github.io/video/image_11.png",
+                           "https://nileshnexussol.github.io/video/image_12.png",
+                           "https://nileshnexussol.github.io/video/image_13.png"]
     } ,  {
         "CategoryId":103,
-        "WallPaperUrlList":["https://images.pexels.com/photos/13973508/pexels-photo-13973508.jpeg",
-                            "https://images.pexels.com/photos/13973508/pexels-photo-13973508.jpeg",
-                            "https://images.pexels.com/photos/13973508/pexels-photo-13973508.jpeg"]
+        "WallPaperUrlList":["https://nileshnexussol.github.io/video/image_14.png",
+                            "https://nileshnexussol.github.io/video/image_15.png" 
+                           ]
     }  
 
     
