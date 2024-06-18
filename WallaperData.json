@@ -14,6 +14,26 @@
      "CategoryName" :"Animals",
      "CategoryId":103,
      "CategoryThmub":"https://images.pexels.com/photos/13973508/pexels-photo-13973508.jpeg"
+     }  ,
+     {
+     "CategoryName" :"Fluid",
+     "CategoryId":104,
+     "CategoryThmub":"https://images.pexels.com/photos/13973508/pexels-photo-13973508.jpeg"
+     }  ,
+     {
+     "CategoryName" :"Anime",
+     "CategoryId":105,
+     "CategoryThmub":"https://images.pexels.com/photos/13973508/pexels-photo-13973508.jpeg"
+     }  ,
+     {
+     "CategoryName" :"Dark",
+     "CategoryId":106,
+     "CategoryThmub":"https://images.pexels.com/photos/13973508/pexels-photo-13973508.jpeg"
+     }  ,
+     {
+     "CategoryName" :"Crystal",
+     "CategoryId":107,
+     "CategoryThmub":"https://images.pexels.com/photos/13973508/pexels-photo-13973508.jpeg"
      } 
 	]
 
@@ -23,11 +43,14 @@
         "CategoryId":101,
         "WallPaperUrlList":["https://images.pexels.com/photos/13973508/pexels-photo-13973508.jpeg",
                               "https://images.pexels.com/photos/13973508/pexels-photo-13973508.jpeg",
+                              "https://images.pexels.com/photos/13261768/pexels-photo-13261768.jpeg",
+                              "https://images.pexels.com/photos/13261768/pexels-photo-13261768.jpeg",
                               "https://images.pexels.com/photos/13973508/pexels-photo-13973508.jpeg"]
     } , {
         "CategoryId":102,
         "WallPaperUrlList":["https://images.pexels.com/photos/13973508/pexels-photo-13973508.jpeg",
                             "https://images.pexels.com/photos/13973508/pexels-photo-13973508.jpeg",
+                            "https://images.pexels.com/photos/13261768/pexels-photo-13261768.jpeg",
                             "https://images.pexels.com/photos/13973508/pexels-photo-13973508.jpeg"]
     } ,  {
         "CategoryId":103,
