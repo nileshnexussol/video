@@ -1,0 +1,61 @@
+{
+"Category" :	[
+	{
+    "CategoryName" :"Nature",
+	"CategoryId":101,
+    "CategoryThmub":"https://images.pexels.com/photos/13261768/pexels-photo-13261768.jpeg"
+	 } ,
+     {
+    "CategoryName" :"Sky",
+	"CategoryId":102,
+    "CategoryThmub":"https://images.pexels.com/photos/13973508/pexels-photo-13973508.jpeg"
+	 } ,
+     {
+     "CategoryName" :"Animals",
+     "CategoryId":103,
+     "CategoryThmub":"https://images.pexels.com/photos/13973508/pexels-photo-13973508.jpeg"
+     } 
+	]
+
+,
+"WallPaper":[
+    {
+        "CategoryId":101,
+        "WallPaperUrl":"https://images.pexels.com/photos/13973508/pexels-photo-13973508.jpeg"
+    }, {
+        "CategoryId":101,
+        "WallPaperUrl":"https://images.pexels.com/photos/13973508/pexels-photo-13973508.jpeg"
+    },
+    {
+        "CategoryId":101,
+        "WallPaperUrl":"https://images.pexels.com/photos/13973508/pexels-photo-13973508.jpeg"
+    },
+      {
+        "CategoryId":102,
+        "WallPaperUrl":"https://images.pexels.com/photos/13714626/pexels-photo-13714626.jpeg"
+    },
+     {
+        "CategoryId":102,
+        "WallPaperUrl":"https://images.pexels.com/photos/13714626/pexels-photo-13714626.jpeg"
+    },
+    {
+        "CategoryId":102,
+        "WallPaperUrl":"https://images.pexels.com/photos/13714626/pexels-photo-13714626.jpeg"
+    },
+    {
+      "CategoryId":103,
+      "WallPaperUrl":"https://images.pexels.com/photos/13714626/pexels-photo-13714626.jpeg"
+  },
+   {
+      "CategoryId":103,
+      "WallPaperUrl":"https://images.pexels.com/photos/13714626/pexels-photo-13714626.jpeg"
+  },
+  {
+      "CategoryId":103,
+      "WallPaperUrl":"https://images.pexels.com/photos/13714626/pexels-photo-13714626.jpeg"
+  }
+]
+
+    
+
+}
