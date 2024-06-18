@@ -21,41 +21,21 @@
 "WallPaper":[
     {
         "CategoryId":101,
-        "WallPaperUrl":"https://images.pexels.com/photos/13973508/pexels-photo-13973508.jpeg"
-    }, {
-        "CategoryId":101,
-        "WallPaperUrl":"https://images.pexels.com/photos/13973508/pexels-photo-13973508.jpeg"
-    },
-    {
-        "CategoryId":101,
-        "WallPaperUrl":"https://images.pexels.com/photos/13973508/pexels-photo-13973508.jpeg"
-    },
-      {
+        "WallPaperUrlList":["https://images.pexels.com/photos/13973508/pexels-photo-13973508.jpeg",
+                              "https://images.pexels.com/photos/13973508/pexels-photo-13973508.jpeg",
+                              "https://images.pexels.com/photos/13973508/pexels-photo-13973508.jpeg"]
+    } , {
         "CategoryId":102,
-        "WallPaperUrl":"https://images.pexels.com/photos/13714626/pexels-photo-13714626.jpeg"
-    },
-     {
-        "CategoryId":102,
-        "WallPaperUrl":"https://images.pexels.com/photos/13714626/pexels-photo-13714626.jpeg"
-    },
-    {
-        "CategoryId":102,
-        "WallPaperUrl":"https://images.pexels.com/photos/13714626/pexels-photo-13714626.jpeg"
-    },
-    {
-      "CategoryId":103,
-      "WallPaperUrl":"https://images.pexels.com/photos/13714626/pexels-photo-13714626.jpeg"
-  },
-   {
-      "CategoryId":103,
-      "WallPaperUrl":"https://images.pexels.com/photos/13714626/pexels-photo-13714626.jpeg"
-  },
-  {
-      "CategoryId":103,
-      "WallPaperUrl":"https://images.pexels.com/photos/13714626/pexels-photo-13714626.jpeg"
-  }
-]
+        "WallPaperUrlList":["https://images.pexels.com/photos/13973508/pexels-photo-13973508.jpeg",
+                            "https://images.pexels.com/photos/13973508/pexels-photo-13973508.jpeg",
+                            "https://images.pexels.com/photos/13973508/pexels-photo-13973508.jpeg"]
+    } ,  {
+        "CategoryId":103,
+        "WallPaperUrlList":["https://images.pexels.com/photos/13973508/pexels-photo-13973508.jpeg",
+                            "https://images.pexels.com/photos/13973508/pexels-photo-13973508.jpeg",
+                            "https://images.pexels.com/photos/13973508/pexels-photo-13973508.jpeg"]
+    }  
 
     
-
+]
 }
