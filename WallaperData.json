@@ -6,7 +6,7 @@
     "CategoryThmub":"https://images.pexels.com/photos/13261768/pexels-photo-13261768.jpeg"
 	 } ,
      {
-    "CategoryName" :"Sky",
+    "CategoryName" :"Fluid",
 	"CategoryId":102,
     "CategoryThmub":"https://images.pexels.com/photos/13973508/pexels-photo-13973508.jpeg"
 	 } ,
@@ -53,16 +53,34 @@
                    ]
     } , {
         "CategoryId":102,
-        "WallPaperUrlList":["https://nileshnexussol.github.io/video/image_10.png",
-                            "https://nileshnexussol.github.io/video/image_11.png",
-                           "https://nileshnexussol.github.io/video/image_12.png",
-                           "https://nileshnexussol.github.io/video/image_13.png"]
+        "WallPaperUrlList":	["https://nileshnexussol.github.io/video/fluid_1.png",
+        "https://nileshnexussol.github.io/video/fluid_2.png",
+       "https://nileshnexussol.github.io/video/fluid_3.png",
+       "https://nileshnexussol.github.io/video/fluid_4.png",
+       "https://nileshnexussol.github.io/video/fluid_5.png",
+       "https://nileshnexussol.github.io/video/fluid_6.png",
+       "https://nileshnexussol.github.io/video/fluid_7.png",
+       "https://nileshnexussol.github.io/video/fluid_8.png",
+       "https://nileshnexussol.github.io/video/fluid_9.png",
+       "https://nileshnexussol.github.io/video/fluid_10.png",
+       "https://nileshnexussol.github.io/video/fluid_11.png",
+       "https://nileshnexussol.github.io/video/image_12.png"]
+
+
+
+
     } ,  {
         "CategoryId":103,
         "WallPaperUrlList":["https://nileshnexussol.github.io/video/image_14.png",
                             "https://nileshnexussol.github.io/video/image_15.png" 
                            ]
-    }  
+    },  {
+        "CategoryId":104,
+        "WallPaperUrlList":["https://nileshnexussol.github.io/video/image_10.png",
+                            "https://nileshnexussol.github.io/video/image_11.png",
+                           "https://nileshnexussol.github.io/video/image_12.png",
+                           "https://nileshnexussol.github.io/video/image_13.png"]
+    } 
 
     
 ]
